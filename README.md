@@ -13,4 +13,6 @@ Informal Responses
 
 09/21/2021 Owen Barder Lecture Trunicated Responses [Barder](Barder.html) 
 
+09/23/2021 Using the Civil War as a Lesson in Human Development Through the Use of Data Science [Gettysburg](Gettysburg.html)
+
 Formal Assignments
