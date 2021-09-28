@@ -15,4 +15,6 @@ Informal Responses
 
 09/23/2021 Using the Civil War as a Lesson in Human Development Through the Use of Data Science [Gettysburg](Gettysburg.html)
 
+09/28/2020 In-class Introductory Essay [Introduction](Introduction.html) 
+
 Formal Assignments
