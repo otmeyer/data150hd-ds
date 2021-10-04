@@ -21,4 +21,4 @@ Informal Responses
 
 Formal Assignments
 
-10/03/2021 Annotated Bibliography [Annotated Bibliography](Annotated Bibliography.html)
+10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
