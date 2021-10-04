@@ -20,3 +20,5 @@ Informal Responses
 09/30/2021 In-class Gapminder Essay [Gapminder](Gapminder.html)
 
 Formal Assignments
+
+10/03/2021 Annotated Bibliography [Annotated Bibliography](Annotated Bibliography.html)
