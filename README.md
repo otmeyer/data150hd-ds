@@ -19,6 +19,8 @@ Informal Responses
 
 09/30/2021 In-class Gapminder Essay [Gapminder](Gapminder.html)
 
+10/07/2021 In-class Our World in Data Essay [OurWorldinData](OurWorldinData.html)
+
 Formal Assignments
 
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
