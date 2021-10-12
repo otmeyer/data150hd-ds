@@ -21,6 +21,8 @@ Informal Responses
 
 10/07/2021 In-class Our World in Data Essay [OurWorldinData](OurWorldinData.html)
 
+10/12/2021 In-class Belt and Road Initiative Essay [BRI](BRI.html)
+
 Formal Assignments
 
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
