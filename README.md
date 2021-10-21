@@ -23,7 +23,7 @@ Informal Responses
 
 10/12/2021 In-class Belt and Road Initiative Essay [BRI](BRI.html)
 
-10/21/2021 In-class Diamandia Essay [Diamandis](Diamandis.html)
+10/21/2021 In-class Diamandis Essay [Diamandis](Diamandis.html)
 
 Formal Assignments
 
