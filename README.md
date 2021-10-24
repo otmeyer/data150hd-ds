@@ -29,4 +29,4 @@ Formal Assignments
 
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
 
-10/24/2021 Literature Review [Literature Review](Literature Review.html)
+10/24/2021 Literature Review [Review](Review.html)
