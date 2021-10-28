@@ -25,6 +25,8 @@ Informal Responses
 
 10/21/2021 In-class Diamandis Essay [Diamandis](Diamandis.html)
 
+10/28/2021 In-class Data Essay [Data](Data.html)
+
 Formal Assignments
 
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
