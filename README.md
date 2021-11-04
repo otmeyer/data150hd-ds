@@ -27,6 +27,8 @@ Informal Responses
 
 10/28/2021 In-class Data Essay [Data](Data.html)
 
+11/04/2021 In-Class Discussion Idea Essay [DiscussionIdea](DiscussionIdea.html)
+
 Formal Assignments
 
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
