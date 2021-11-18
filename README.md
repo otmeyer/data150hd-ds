@@ -33,6 +33,8 @@ Informal Responses
 
 11/11/2021 In-Class COVID Essay [COVID](COVID.html)
 
+11/16/2021 In-Class Self-Driving Cars Essay [Cars](Cars.html)
+
 Formal Assignments
 
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
