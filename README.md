@@ -31,6 +31,8 @@ Informal Responses
 
 11/09/2021 In-Class Facial Recognition Essay [FacialRecognition](FacialRecognition.html)
 
+11/11/2021 In-Class COVID Essay [COVID](COVID.html)
+
 Formal Assignments
 
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
