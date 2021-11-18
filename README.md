@@ -29,6 +29,8 @@ Informal Responses
 
 11/04/2021 In-Class Discussion Idea Essay [DiscussionIdea](DiscussionIdea.html)
 
+11/09/2021 In-Class Facial Recognition Essay [FacialRecognition](FacialRecognition.html)
+
 Formal Assignments
 
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
