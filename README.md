@@ -40,3 +40,5 @@ Formal Assignments
 10/03/2021 Annotated Bibliography [Bibliography](Bibliography.html)
 
 10/24/2021 Literature Review [Review](Review.html)
+
+11/28/2021 Methodology Investigation [Methodology](Methodology.html)
