@@ -42,3 +42,5 @@ Formal Assignments
 10/24/2021 Literature Review [Review](Review.html)
 
 11/28/2021 Methodology Investigation [Methodology](Methodology.html)
+
+12/05/2021 Presentation Slides [Human Development_Data Science_ Slavery to Modern Slavery Pipeline.pdf](Human Development_Data Science_ Slavery to Modern Slavery Pipeline.pdf.html) 
